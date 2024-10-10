@@ -51,6 +51,10 @@ Plugins/**/Binaries/*
 
 # Builds
 Build/*
+Builds/*
+
+# PixelSteaming leftovers
+Samples/PixelStreaming
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
